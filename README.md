@@ -1,4 +1,4 @@
 # Data Analysis Projects using BigQuerry and Datastudio 
-###### From Google Cloud Platform
+###### Tools offered by Google Cloud Platform
 
-Personal projects using BigQuery and Data Studio (Google Cloud Platform).
+### Project 1: Descriptive Analysis of the top 2% Scientists in the world Dataset
